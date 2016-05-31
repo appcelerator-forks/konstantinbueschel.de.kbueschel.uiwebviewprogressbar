@@ -1,12 +1,6 @@
-# Alloy *WebView Fake ProgressBar* Widget [![Appcelerator Titanium](http://www-static.appcelerator.com/badges/titanium-git-badge-sq.png)](http://appcelerator.com/titanium/) [![Appcelerator Alloy](http://www-static.appcelerator.com/badges/alloy-git-badge-sq.png)](http://appcelerator.com/alloy/)
+# Alloy *WebView Fake ProgressBar* Widget
 
-An Alloy widget that displays a fake progress for WebView data loading
-
-## Examples
-
-### iOS
-
-![iOS](ios.gif)
+You can find the README at [https://github.com/konstantinbueschel/de.kbueschel.uiwebviewprogressbar](https://github.com/konstantinbueschel/de.kbueschel.uiwebviewprogressbar)
 
 ## License
 

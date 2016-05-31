@@ -1,0 +1,9 @@
+<Alloy>
+
+	<View id="container" class="container uiwebviewprogessbar">
+
+		<View id="progressBar" class="uiwebviewprogressbar__progress" />
+
+	</View>
+
+</Alloy>

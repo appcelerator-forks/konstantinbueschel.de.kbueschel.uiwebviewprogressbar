@@ -1,0 +1,17 @@
+{
+  "id": "de.kbueschel.uiwebviewprogressbar",
+  "name": "UIWebView ProgressBar",
+  "description": "An Alloy widget that displays a fake progress for WebView data loading",
+  "author": "Konstantin Büschel",
+  "version": "1.0.0",
+  "copyright": "Copyright (c) 2016 Konstantin Büschel",
+  "license": "Apache License, Version 2.0",
+  "min-alloy-version": "1.3",
+  "min-titanium-version": "3.5.1",
+  "tags": "progress,bar,webview,uiwebview",
+  "platforms": "ios,android",
+  "modules": {
+    "guy.mcdooooo.tibezier": "*",
+    "guy.mcdooooo.tipop": "*"
+  }
+}
